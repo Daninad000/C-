@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuvar", "Fuvar\Fuvar.csproj", "{46237C30-A5F8-4835-B342-29583A97887C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuvarGUI", "FuvarGUI\FuvarGUI.csproj", "{F966BD07-D5D0-47C2-932E-9EEDCCF58E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46237C30-A5F8-4835-B342-29583A97887C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46237C30-A5F8-4835-B342-29583A97887C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46237C30-A5F8-4835-B342-29583A97887C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46237C30-A5F8-4835-B342-29583A97887C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F966BD07-D5D0-47C2-932E-9EEDCCF58E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F966BD07-D5D0-47C2-932E-9EEDCCF58E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F966BD07-D5D0-47C2-932E-9EEDCCF58E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F966BD07-D5D0-47C2-932E-9EEDCCF58E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2751821-EBE1-4695-B6CA-02418E41454B}
+	EndGlobalSection
+EndGlobal
