@@ -1,0 +1,15 @@
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\bin\Debug\FuvarGUI.exe.config
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\bin\Debug\FuvarGUI.exe
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\bin\Debug\FuvarGUI.pdb
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\obj\Debug\FuvarGUI.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\obj\Debug\FuvarGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\obj\Debug\FuvarGUI.Form1.resources
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\obj\Debug\FuvarGUI.Properties.Resources.resources
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\obj\Debug\FuvarGUI.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\obj\Debug\FuvarGUI.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\obj\Debug\FuvarGUI.exe
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\obj\Debug\FuvarGUI.pdb
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\bin\Debug\Fuvar.exe
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\bin\Debug\Fuvar.pdb
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\bin\Debug\Fuvar.exe.config
+C:\Users\Dan\source\repos\Fuvar\FuvarGUI\obj\Debug\FuvarGUI.csproj.CopyComplete
